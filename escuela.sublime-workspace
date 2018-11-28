@@ -1,0 +1,421 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_r",
+				"_router"
+			],
+			[
+				"exerc",
+				"exercise"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/src/app/components/paise/editpaise.component.ts",
+			"settings":
+			{
+				"buffer_size": 2525,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/H/xampp72/htdocs/escuela",
+		"/H/xampp72/htdocs/escuela/client",
+		"/H/xampp72/htdocs/escuela/client/src",
+		"/H/xampp72/htdocs/escuela/client/src/app",
+		"/H/xampp72/htdocs/escuela/client/src/app/components",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/home",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/login",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/paise",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/profile",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/provincia",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/publications",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/register",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/role",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/sidebar",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/timeline",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/user-edit",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/users",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components/add",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components/main",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components/received",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components/sended",
+		"/H/xampp72/htdocs/escuela/client/src/app/services",
+		"/H/xampp72/htdocs/escuela/client/src/assets"
+	],
+	"file_history":
+	[
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components/received/received.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/paise/editpaise.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/app.routing.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/paise/paise.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/profile/profile.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/provincia/addprovincia.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/provincia/editprovincia.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/provincia/provincias.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/publications/publications.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/register/register.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/role/addRole.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/role/editRole.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/role/role.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/sidebar/sidebar.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/timeline/timeline.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/user-edit/editausuario.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/user-edit/user-edit.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/users/users.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components/add/add.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components/main/main.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components/sended/sended.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/services/paise.service.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/services/provincia.service.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/services/user.service.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/home/home.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/login/login.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/paise/addpaise.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/paise/editpaise.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/paise/addpaise.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/models/paise.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/app.module.ts",
+		"/H/xampp72/htdocs/escuela/api/controllers/provincia.js",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/paise/paise.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/provincia/provincia.component.html",
+		"/H/xampp72/htdocs/escuela/api/routes/pais.js",
+		"/H/xampp72/htdocs/escuela/api/routes/provincia.js",
+		"/H/xampp72/htdocs/escuela/api/controllers/paise.js",
+		"/H/xampp72/htdocs/escuela/api/models/provincia.js",
+		"/H/xampp72/htdocs/escuela/api/models/paise.js",
+		"/H/xampp72/htdocs/escuela/api/app.js",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/provincia/editprovincia.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/provincia/addprovincia.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/models/provincia.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/role/addrole.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/app.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/assets/styles.css",
+		"/H/xampp72/htdocs/escuela/client/src/app/app.component.ts",
+		"/H/xampp72/htdocs/escuela/api/routes/role.js",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/users/users.component.html",
+		"/H/xampp72/htdocs/escuela/api/controllers/user.js",
+		"/H/xampp72/htdocs/escuela/client/src/app/services/role.service.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/models/role.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/profile/profile.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/models/user.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/role/list-roles.component.html",
+		"/H/xampp72/htdocs/escuela/api/controllers/role.js",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/role/editRole.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/services/message.service.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/role/deleteRole.component.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/role/deleteRole.component.html",
+		"/H/xampp72/htdocs/escuela/api/routes/user.js",
+		"/H/xampp72/htdocs/escuela/client/node_modules/rxjs/src/internal/Scheduler.ts",
+		"/H/xampp72/htdocs/escuela/client/tmp/app.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/index.html",
+		"/H/xampp72/htdocs/escuela/api/models/role.js",
+		"/H/xampp72/htdocs/escuela/client/src/app/services/user.guard.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/services/publication.service.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/login/login.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/role/role.component.html",
+		"/H/xampp72/htdocs/escuela/api/controllers/message.js",
+		"/H/xampp72/htdocs/escuela/api/routes/follow.js",
+		"/H/xampp72/htdocs/escuela/client/src/app/models/follow.ts",
+		"/H/xampp72/htdocs/escuela/api/models/follow.js",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/register/register.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/user-edit/editausuario.component.html",
+		"/H/xampp72/htdocs/escuela/api/models/user.js",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/following/following.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components/sended/sended.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components/received/received.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/messages/components/add/add.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/user-edit/user-edit.component.html",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/sidebar/sidebar.component.html",
+		"/H/xampp72/htdocs/escuela/api/services/jwt.js",
+		"/H/xampp72/htdocs/escuela/client/node_modules/rxjs-compat/operator/let.d.ts",
+		"/H/xampp72/htdocs/escuela/client/src/app/components/home/home.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/user.guard.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/userpro.guard.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/app.module.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/messages.module.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/app.routing.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/login/login.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/messages-routing.module.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/user.service.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/message.service.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/app.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/sended/sended.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/received/received.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/following/following.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/sended/sended.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/received/received.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/add/add.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/add/add.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/main/main.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/follow.service.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/main/main.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/following/following.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/assets/styles.css",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/messages-routing.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/sended/sended.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/sended/sended.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/messages-routing.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/messages.module.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/received/received.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/received/received.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/main/main.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/main/main.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/add/add.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/add/add.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/sidebar/sidebar.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/sidebar/sidebar.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/profile/profile.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/api/controllers/user.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/controllers/follow.js",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/timeline/timeline.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/timeline/timeline.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/api/controllers/publication.js",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/publications/publications.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/user-edit/user-edit.component.ts"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"console.log",
+			"provincia",
+			"Provincia",
+			"console",
+			"home",
+			"JSON:sp",
+			"JSON:",
+			"spotify",
+			"required",
+			"console",
+			"identity 0",
+			"update-role",
+			"role",
+			"remove",
+			"delete",
+			"name",
+			"consol",
+			"usuarios",
+			"console.log",
+			"id:",
+			"user",
+			"nick",
+			"new",
+			"nick",
+			"string",
+			"public",
+			"lista",
+			"getcounters",
+			"counter",
+			"pull",
+			"user",
+			"this",
+			"avatar",
+			"updatee",
+			"userEdit",
+			"edit",
+			"succes",
+			"pointer",
+			"none",
+			";",
+			",",
+			"hand",
+			"hansleerror",
+			"inva",
+			"zone",
+			"script"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pais",
+			"Pais",
+			"readonly=\"true\"",
+			"String",
+			"",
+			",",
+			";"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/src/app/components/paise/editpaise.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1363,
+								1363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "escuela.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

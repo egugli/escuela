@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_r",
+				"_router"
+			],
+			[
+				"exerc",
+				"exercise"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/H/xampp72/htdocs/escuela/api"
+	],
+	"file_history":
+	[
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/user.guard.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/userpro.guard.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/app.module.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/messages.module.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/app.routing.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/login/login.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/messages-routing.module.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/user.service.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/message.service.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/app.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/sended/sended.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/received/received.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/following/following.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/sended/sended.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/received/received.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/add/add.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/add/add.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/main/main.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/follow.service.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/components/main/main.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/following/following.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/assets/styles.css",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/messages/messages-routing.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/sended/sended.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/sended/sended.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/messages-routing.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/messages.module.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/received/received.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/received/received.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/main/main.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/main/main.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/add/add.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/mensajes/components/add/add.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/sidebar/sidebar.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/sidebar/sidebar.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/profile/profile.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/api/controllers/user.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/controllers/follow.js",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/timeline/timeline.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/timeline/timeline.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/api/controllers/publication.js",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/publications/publications.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/user-edit/user-edit.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/users/users.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/publications/publications.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/profile/profile.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/publication.service.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/node_modules/@angular/router/src/router_state.d.ts",
+		"/H/xampp72/htdocs/curso-mean-social/api/routes/publication.js",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/users/users.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/package.json",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/user-edit/user-edit.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/api/routes/user.js",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/app.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/upload.service.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/services/upload.service.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/home/home.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/home/home.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/register/register.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/login/login.component.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/components/register/register.component.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/models/user.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/models/publication.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/models/message.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/services/global.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/app/models/follow.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/index.html",
+		"/H/xampp72/htdocs/curso-mean-social/client/angular.json",
+		"/H/xampp72/htdocs/curso-mean-social/client/src/typings.d.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/node_modules/bootstrap/dist/css/less/forms.less",
+		"/H/xampp72/htdocs/curso-mean-social/client/typigs.d.ts",
+		"/H/xampp72/htdocs/curso-mean-social/client/node_modules/blocking-proxy/circle.yml",
+		"/H/xampp72/htdocs/curso-mean-social/api/controllers/message.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/routes/message.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/app.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/models/message.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/models/follow.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/routes/follow.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/models/publication.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/node_modules/bson/browser_build/bson.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/models/user.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/middlewares/authenticated.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/services/jwt.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/index.js",
+		"/H/xampp72/htdocs/curso-mean-social/api/package.json",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/admin/components/add/add.component.html",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/admin/components/list/list.component.html",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/admin/components/add/add.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/admin/components/edit/edit.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/admin/components/list/list.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/admin/animation.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/assets/styles.css",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/animation.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/contact/contact.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/admin/admin.module.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/app.module.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/admin/components/animation.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/animals/animals.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/animals/animals.component.html",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/keepers/keepers.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/keepers/keepers.component.html",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/services/user.service.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/services/animal.service.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/app.component.html",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/admin/pipes/search.pipe.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/animal-detail/animal-detail.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/admin/admin-routing.module.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/animal-detail/animal-detail.component.html",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/app.routing.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/admin/components/main/main.component.html",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/user-edit/user-edit.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/models/animal.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/register/register.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/login/login.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/services/admin.guard.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado-backend/controllers/user.js",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/user-edit/user-edit.component.html",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/app.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado-backend/app.js",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/login/login.component.html",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/user-edit/useredit.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/register/register.component.html",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/services/global.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/models/user.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/moduloemail/components/main-email/main-email.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/moduloemail/components/guardar-email/guardar-email.component.ts",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/tienda/tienda.component.html",
+		"/H/xampp72/htdocs/curso-angular6-avanzado/src/app/components/tienda/tienda.component.ts"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user",
+			"this",
+			"avatar",
+			"updatee",
+			"userEdit",
+			"edit",
+			"succes",
+			"pointer",
+			"none",
+			";",
+			",",
+			"hand",
+			"hansleerror",
+			"inva",
+			"zone",
+			"script"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			";"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "escuela-api.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
